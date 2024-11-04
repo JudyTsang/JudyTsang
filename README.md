@@ -32,7 +32,7 @@ I’m actively learning programming and tech skills with the goal of becoming a 
 - **Academics**: Planning to take the graduate entrance exam for the National Taiwan University Department of Information Management in one year.
 - **Career**: Aiming to become a sales professional in a tech company within a year and gradually transition into a Product Manager (PM) role, where I can apply my combined skills in marketing and technology.
 
-- Thank you for visiting my GitHub profile!
--  I hope my learning journey and skills development pave the way for my future career. Feel free to reach out if you have any advice or opportunities for collaboration!
+  Thank you for visiting my GitHub profile!
+  I hope my learning journey and skills development pave the way for my future career. Feel free to reach out if you have any advice or opportunities for collaboration!
 
 📧 **Contact Me**: tthenyi@gmail.com
